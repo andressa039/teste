@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1669052780 source:c:\users\deivi\onedrive\햞ea de trabalho\nao tem nome\main\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"header.h"
+	"funcao.cpp"
+
+1669051683 c:\users\deivi\onedrive\햞ea de trabalho\nao tem nome\main\header.h
+
+1669071394 c:\users\deivi\onedrive\햞ea de trabalho\nao tem nome\main\funcao.cpp
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1669052201 source:c:\users\deivi\onedrive\햞ea de trabalho\nao tem nome\main\leitura.c
+
+1669052201 c:\users\deivi\onedrive\햞ea de trabalho\nao tem nome\main\leitura.c
+
